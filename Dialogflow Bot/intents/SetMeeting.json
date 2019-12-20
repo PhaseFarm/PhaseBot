@@ -1,0 +1,80 @@
+{
+  "id": "ff8efc0b-a093-4eed-bf2f-d25e0c04e576",
+  "name": "SetMeeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c76d5b6e-165a-4df8-8ed7-d001d65ddbdb",
+          "required": true,
+          "dataType": "@Days",
+          "name": "day",
+          "value": "$day",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What day of the week?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what day of the week?"
+            },
+            {
+              "lang": "en",
+              "value": "No problem, what day of the week?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "0a4941ec-8433-41c7-acbd-3c641c0641dc",
+          "required": true,
+          "dataType": "@TimeOfDay",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "No prob, what time during the day?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what time during the day?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Done and done! You\u0027re all set for $time on $day!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

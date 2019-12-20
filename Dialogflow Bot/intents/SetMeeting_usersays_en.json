@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c3b7d204-9c87-41ef-b2d0-527f21f53954",
+    "data": [
+      {
+        "text": "set up a meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28a1ad45-5a4a-4330-b75e-21b97b181573",
+    "data": [
+      {
+        "text": "make me a meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb6b905a-075c-45df-be14-cf42982bf1df",
+    "data": [
+      {
+        "text": "set a meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9888063-a972-411b-b390-c58bff0e44ac",
+    "data": [
+      {
+        "text": "make a meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c8db352-635f-4991-854c-71b887849188",
+    "data": [
+      {
+        "text": "can you create a meeting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1038a2c3-df92-47aa-ac26-8cefea471012",
+    "data": [
+      {
+        "text": "book a meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

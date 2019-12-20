@@ -1,0 +1,9 @@
+{
+  "id": "b9d70979-9735-479f-a120-ffe632476853",
+  "name": "TimeOfDay",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

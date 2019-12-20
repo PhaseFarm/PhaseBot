@@ -1,0 +1,9 @@
+{
+  "id": "2611e74a-677f-406d-a52c-697dc0fc880d",
+  "name": "Days",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
